@@ -19,6 +19,6 @@ grant all privileges on cellar.* to php@'%';
 
 exit
 
-You should be in /home/ec2-user/
+>>> You should be in /home/ec2-user/
 
 mysql -u root -p cellar  < /home/ec2-user/wine-cellar-php-sql-dump/cellar.sql
